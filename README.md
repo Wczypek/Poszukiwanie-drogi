@@ -1,5 +1,5 @@
 # Poszukiwanie drogi
-> 
+> Rozwiązanie zadania, którego celem było znalezienie najkrótszej drogi pomiędzy punktami A i B na planszy.
 
 ## Screenshots
 ![Example screenshot](./tresc_zadania.jpg)
